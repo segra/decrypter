@@ -1,0 +1,36 @@
+{
+  "links": {
+    "home": "Home",
+    "game": "Game"
+  },
+  "home": {
+    "title": "Decrypter",
+    "intro": "You have 8 attempts to decrypt the code. Good Luck!",
+    "mode": "Mode",
+    "mode1": "Colors",
+    "mode2": "Numbers",
+    "mode3": "Emoticons",
+    "mode4": "Sports",
+    "level": "Level",
+    "level1": "Easy",
+    "level2": "Difficult",
+    "level3": "Hard",
+    "button": "Start Game"
+  },
+  "settings": {
+    "title": "Settings:",
+    "subheading1": "App Settings:",
+    "language": "Preferred Language",
+    "theme": "Dark Theme",
+    "subheading2": "Game Settings:",
+    "label1": "Allow Duplicates"
+  },
+  "instructions": {
+    "title": "Instructions",
+    "text": "<p>The object of DECRYPTER is to guess a secret code consisting of a series of 4-6 slots. Each guess results in feedback narrowing down the possibilities of the code. You have 8 attempts to decrypt the code.</p><p>Each guess is made by selecting a row of code slots on the code row. Once input, the game provides feedback by displaying from zero to four/six keys in the small slots of the row with the guess. A red key is activated for each code slot from the guess which is correct in both color/type and position. A white key activated indicates the existence of a correct color/type input placed in the wrong position.</p><p>If there are duplicate colours/types in the guess, they cannot all be awarded a key unless they correspond to the same number of duplicate colours/types in the hidden code. For example, if the hidden code is white-white-black-black and the player guesses white-white-white-black, the game will award two colored keys for the two correct whites, nothing for the third white as there is not a third white in the code, and a red key for the black. No indication is given of the fact that the code also includes a second black.</p>",
+    "button": "Close"
+  },
+  "game": {
+    "introduction": "This page is made to give you more informations."
+  }
+}

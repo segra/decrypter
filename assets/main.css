@@ -1,0 +1,19 @@
+.page-enter-active,
+.page-leave-active,
+.fade-up-enter-active,
+.fade-up-leave-active {
+  transition-duration: 0.4s;
+  transition-property: opacity, transform;
+  transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1);
+}
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+  transform: translate(0, 2em);
+}
+
+.fade-up-enter,
+.fade-up-leave-to {
+  opacity: 0;
+  transform: translate(0, -2em);
+}

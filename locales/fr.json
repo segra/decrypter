@@ -1,0 +1,36 @@
+{
+  "links": {
+    "home": "Maison",
+    "game": "Jeu"
+  },
+  "home": {
+    "title": "Décrypteur",
+    "intro": "Essayez de décrypt le code!",
+    "mode": "Mode",
+    "mode1": "Couleurs",
+    "mode2": "Nombres",
+    "mode3": "Émoticônes",
+    "mode4": "Des sports",
+    "level": "Niveau",
+    "level1": "Facile",
+    "level2": "Ordinaire",
+    "level3": "Difficile",
+    "button": "Démarrer Jeu"
+  },
+  "settings": {
+    "title": "Paramètres:",
+    "subheading1": "Paramètres de l'application:",
+    "language": "Langue Préférée",
+    "theme": "Thème Sombre",
+    "subheading2": "Paramètres de jeu:",
+    "label1": "Autoriser les Doublons"
+  },
+  "instructions": {
+    "title": "Instructions",
+    "text": "Vous avez 8 tentatives pour casser le code / mot de passe.",
+    "button": "proche"
+  },
+  "game": {
+    "title": "Décrypteur"
+  }
+}
