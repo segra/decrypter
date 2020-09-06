@@ -1,6 +1,9 @@
-# code-breaker
+# Decrypter
 
-> Mastermind game clone
+> Mastermind game clone built with Vue.js and Nuxt.js
+
+## Demo
+Online demo of game is available at https://decrypter.netlify.app/
 
 ## Build Setup
 
@@ -19,4 +22,3 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
